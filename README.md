@@ -1,4 +1,4 @@
-Snake Game 🐍
+**Snake Game** 🐍
 Welcome to our Snake Game! This classic arcade game is implemented using Python and the Pygame library. Enjoy the nostalgia of guiding the snake through the grid to eat food and grow longer, but be careful not to collide with the walls or yourself!
 
 **Features**
